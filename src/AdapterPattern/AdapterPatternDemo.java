@@ -1,7 +1,7 @@
 package AdapterPattern;
 
 /**
- * @author xuyp 适配器模式 场景类比 Android 和 iPhone 的充电器转换头
+ * @author xuyp 适配器模式 
  */
 public class AdapterPatternDemo {
 	public static void main(String agrs[]) {
